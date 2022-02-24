@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "02c914dc6c58fa8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc3c098410b77dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blind Sqli with out-of-band interaction.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcbb2ee8438631fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b48d4e77c62afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5e087744c6be8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7745f5694b2d486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "083ef0b4a5ea2a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9282c29642c3de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd7ea29faa0ac804",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blind Sqli with out-of-band interaction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2fc3c098410b77dc",
+  "lastOpenFiles": [
+    "Blind Sqli with out-of-band interaction.md",
+    "Blind sqli.md",
+    "Retrieving multiple values within a single column.md",
+    "Condition based.md",
+    "Untitled.md",
+    "Time based sqli.md"
+  ]
+}

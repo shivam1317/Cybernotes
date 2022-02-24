@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "096104fc7bf77283",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a5e6be3ee7e18c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Authentication/Changing-user-passwords.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9dd5f2e66ba804b",
+    "type": "split",
+    "children": [
+      {
+        "id": "256f532341fc1479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a939ac61e6c3c7f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b0e1ffc20547a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.006872177124
+  },
+  "right": {
+    "id": "2b9dff38d71ceba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d58fe2f9c79ea9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb71c48f3a85bb4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Authentication/Changing-user-passwords.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "89a5e6be3ee7e18c",
+  "lastOpenFiles": [
+    "Authentication/Changing-user-passwords.md",
+    "Authentication/Stay-logged-in-cookie.md",
+    "Authentication/Password-reset-logic.md",
+    "Authentication/Password-reset-poisoning.md",
+    "Authentication/password-based-login-1.md",
+    "Authentication/Lab-4.md",
+    "Business-logic/Lab-2 Failing-to-handle-unconventional-input.md",
+    "Business-logic/Lab-1 Excessive-trust-in-client-side-controls.md",
+    "Authentication/password-based-login-2.md",
+    "Authentication/Lab-3.md"
+  ]
+}
