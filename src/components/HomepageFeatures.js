@@ -55,9 +55,6 @@ export default function HomepageFeatures() {
       <h1 className={styles.introHead}>About Me</h1>
       <div className={styles.container}>
         <div className={styles.introDiv}>
-          {/* {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))} */}
           <h2 className={styles.introHead}>Hello 👋 </h2>
           <p className={styles.intro}>
             Myself shivam aka 0xSH1V4M. I am from India And i am ethical hacker
@@ -79,7 +76,7 @@ export default function HomepageFeatures() {
         </div>
         <div>
           <img
-            src="/img/doraemon.png"
+            src="static/img/doraemon.png"
             alt="doraemon"
             className={styles.authorImg}
           />
