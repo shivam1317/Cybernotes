@@ -76,7 +76,7 @@ export default function HomepageFeatures() {
         </div>
         <div>
           <img
-            src="static/img/doraemon.png"
+            src="img/doraemon.png"
             alt="doraemon"
             className={styles.authorImg}
           />
