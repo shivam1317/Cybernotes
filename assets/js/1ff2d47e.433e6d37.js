@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[9236],{8831:function(s){s.exports=JSON.parse('{"allTagsPath":"/Cybernotes/blog/tags","slug":"/Cybernotes/blog/tags/windows","name":"windows","count":1,"permalink":"/Cybernotes/blog/tags/windows"}')}}]);

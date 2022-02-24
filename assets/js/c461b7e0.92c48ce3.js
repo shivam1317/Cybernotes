@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[4238],{7252:function(e){e.exports=JSON.parse('{"name":"welcome","permalink":"/Cybernotes/docs/tags/welcome","docs":[{"id":"intro","title":"Welcome to Cybernotes","description":"Hey there \ud83d\udc4b","permalink":"/Cybernotes/docs/intro"}],"allTagsPath":"/Cybernotes/docs/tags"}')}}]);
