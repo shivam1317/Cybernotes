@@ -49,11 +49,17 @@ const config = {
         indexName: "cybernotes",
         contextualSearch: true,
       },
+      metadata: [
+        {
+          name: "cybernotes",
+          content: "Collection of cybersecurity notes and CTF writeups",
+        },
+      ],
       navbar: {
         title: "Cybernotes",
         logo: {
           alt: "cybernotes",
-          src: "img/logo.svg",
+          src: "img/book.png",
         },
         items: [
           {

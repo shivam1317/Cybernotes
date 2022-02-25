@@ -22,7 +22,7 @@ const sidebars = {
     {
       type: "category",
       label: "Welcome",
-      items: ["intro", "Search by tags"],
+      items: ["intro", "contributing", "Search by tags"],
     },
     {
       type: "category",
