@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/file-upload.jpg"
+---
+
 ## Overriding the server configuration
 
 As we discussed in the previous section, servers typically won't execute files unless they have been configured to do so. For example, before an Apache server will execute PHP files requested by a client, developers might have to add the following directives to their `/etc/apache2/apache2.conf` file:

@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/information-disclosure.png"
+---
+
 ### Error messages
 
 One of the most common causes of information disclosure is verbose error messages. As a general rule, you should pay close attention to all error messages you encounter during auditing.

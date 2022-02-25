@@ -1,5 +1,6 @@
 ---
 tags: ["time based sqli", "sqli", "postgresql"]
+image: "img/Portswigger/sql-injection.png"
 ---
 
 # Time based SQLi

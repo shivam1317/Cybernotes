@@ -1,5 +1,6 @@
 ---
 tags: ["OAST", "nslookup"]
+image: "img/Portswigger/command-injection.png"
 ---
 
 --> In this lab the server is working asynchronously that's why output redirecion or blind command injection will not work but we can make sure the server is vulnerable with the `nslookup` in linux which is command for DNS lookup.

@@ -1,5 +1,7 @@
 ---
 tags: ["2FA"]
+title: Bypassing 2 Factor Authentication
+image: "img/Portswigger/authentication.png"
 ---
 
 ## Bypassing two-factor authentication

@@ -1,5 +1,7 @@
 ---
 tags: ["brute force", "intro"]
+title: Brute force attacks
+image: "img/Portswigger/authentication.png"
 ---
 
 # Brute-force attacks

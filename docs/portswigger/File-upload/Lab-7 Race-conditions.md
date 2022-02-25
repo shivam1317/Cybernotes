@@ -1,5 +1,6 @@
 ---
 tags: ["race condition"]
+image: "img/Portswigger/file-upload.jpg"
 ---
 
 ## Exploiting file upload race conditions

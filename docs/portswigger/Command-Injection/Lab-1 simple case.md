@@ -1,5 +1,6 @@
 ---
 tags: ["command injection"]
+image: "img/Portswigger/command-injection.png"
 ---
 
 --> In this lab the vulnerability is in check stock button which will check the stock in perticular place.

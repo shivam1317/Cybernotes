@@ -1,5 +1,6 @@
 ---
 tags: ["sqli"]
+image: "img/Portswigger/sql-injection.png"
 ---
 
 ## Condition based Sql injection

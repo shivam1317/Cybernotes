@@ -1,5 +1,6 @@
 ---
 tags: ["intro"]
+image: "img/Portswigger/command-injection.png"
 ---
 
 # What is OS command injection?

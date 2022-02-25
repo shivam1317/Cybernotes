@@ -1,5 +1,6 @@
 ---
 tags: ["blacklist", "bypass"]
+image: "img/Portswigger/SSRF.png"
 ---
 
 ## SSRF with blacklist-based input filters

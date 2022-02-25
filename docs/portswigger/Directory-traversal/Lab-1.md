@@ -1,5 +1,6 @@
 ---
 tags: ["directory traversal"]
+image: "img/Portswigger/directory-traversal.png"
 ---
 
 ## Reading arbitrary files via directory traversal

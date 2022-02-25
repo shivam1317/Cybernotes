@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/information-disclosure.png"
+---
+
 ### Information disclosure due to insecure configuration
 
 Websites are sometimes vulnerable as a result of improper configuration. This is especially common due to the widespread use of third-party technologies, whose vast array of configuration options are not necessarily well-understood by those implementing them.

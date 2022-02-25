@@ -1,5 +1,6 @@
 ---
 tags: ["blind sqli", "sqli"]
+image: "img/Portswigger/sql-injection.png"
 ---
 
 # Blind SQL injection

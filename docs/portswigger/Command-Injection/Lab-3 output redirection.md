@@ -1,5 +1,6 @@
 ---
 tags: ["command injection", "IDOR"]
+image: "img/Portswigger/command-injection.png"
 ---
 
 --> same vulnearbilty as Lab-2 but this time we have to find the username by redirecting the output in one of the file in server which we can do with `>` operator in linux.

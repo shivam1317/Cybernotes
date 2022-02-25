@@ -1,5 +1,6 @@
 ---
 tags: ["sqli"]
+image: "img/Portswigger/sql-injection.png"
 ---
 
 ## description

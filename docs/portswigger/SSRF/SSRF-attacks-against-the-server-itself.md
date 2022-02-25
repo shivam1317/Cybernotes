@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/SSRF.png"
+---
+
 ## SSRF attacks against the server itself
 
 In an SSRF attack against the server itself, the attacker induces the application to make an HTTP request back to the server that is hosting the application, via its loopback network interface. This will typically involve supplying a URL with a hostname like `127.0.0.1` (a reserved IP address that points to the loopback adapter) or `localhost` (a commonly used name for the same adapter).

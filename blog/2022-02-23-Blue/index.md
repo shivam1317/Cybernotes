@@ -1,6 +1,8 @@
 ---
 authors: ["shivam"]
 tags: ["windows", "blue"]
+title: Tryhackme Blue Writeup
+image: "img/THM/blue.png"
 ---
 
 # THM Blue writeup

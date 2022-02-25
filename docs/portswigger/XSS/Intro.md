@@ -1,5 +1,6 @@
 ---
 tags: ["xss"]
+image: "img/Portswigger/xss.png"
 ---
 
 ## What is cross-site scripting (XSS)?

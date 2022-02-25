@@ -1,5 +1,6 @@
 ---
 tags: ["null byte"]
+image: "img/Portswigger/file-upload.jpg"
 ---
 
 ## Obfuscating file extensions

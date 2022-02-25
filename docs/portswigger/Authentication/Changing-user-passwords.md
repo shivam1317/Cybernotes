@@ -1,5 +1,7 @@
 ---
 tags: ["password reset"]
+title: Changing user passwords
+image: "img/Portswigger/authentication.png"
 ---
 
 ## Changing user passwords

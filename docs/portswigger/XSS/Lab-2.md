@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/xss.png"
+---
+
 --> i found that `custom tags` and `<body>` tags are accepted.
 
 ![](Attachments/Pastedimage20211026143657.png)

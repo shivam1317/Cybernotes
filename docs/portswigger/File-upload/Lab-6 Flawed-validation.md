@@ -1,5 +1,6 @@
 ---
 tags: ["exiftool", "webshell"]
+image: "img/Portswigger/file-upload.jpg"
 ---
 
 ## Flawed validation of the file's contents

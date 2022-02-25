@@ -1,5 +1,6 @@
 ---
 tags: ["ssrf"]
+image: "img/Portswigger/SSRF.png"
 ---
 
 ## What is blind SSRF?

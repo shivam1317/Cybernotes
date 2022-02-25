@@ -1,5 +1,6 @@
 ---
 tags: ["github", "git", "gitTools"]
+image: "img/Portswigger/information-disclosure.png"
 ---
 
 ### Version control history

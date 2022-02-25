@@ -1,5 +1,6 @@
 ---
 tags: ["webshell"]
+image: "img/Portswigger/file-upload.jpg"
 ---
 
 ## Exploiting unrestricted file uploads to deploy a web shell

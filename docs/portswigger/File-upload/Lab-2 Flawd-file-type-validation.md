@@ -1,5 +1,6 @@
 ---
 tags: ["webshell", "MIME"]
+image: "img/Portswigger/file-upload.jpg"
 ---
 
 ## Flawed file type validation

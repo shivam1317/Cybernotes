@@ -1,5 +1,6 @@
 ---
 tags: ["filter bypass"]
+image: "img/Portswigger/directory-traversal.png"
 ---
 
 You might be able to use nested traversal sequences, such as `....//` or `....\/`, which will revert to simple traversal sequences when the inner sequence is stripped.

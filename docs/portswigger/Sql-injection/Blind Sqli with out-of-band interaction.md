@@ -1,5 +1,6 @@
 ---
 tags: ["sqli", "blind sqli"]
+image: "img/Portswigger/sql-injection.png"
 ---
 
 ## Blind sqli with out-of-band interaction (OAST)

@@ -1,5 +1,6 @@
 ---
 tags: ["backup"]
+image: "img/Portswigger/information-disclosure.png"
 ---
 
 ### Source code disclosure via backup files

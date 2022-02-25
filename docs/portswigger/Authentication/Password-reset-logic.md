@@ -1,5 +1,6 @@
 ---
 tags: ["password reset"]
+image: "img/Portswigger/authentication.png"
 ---
 
 # Password reset logic

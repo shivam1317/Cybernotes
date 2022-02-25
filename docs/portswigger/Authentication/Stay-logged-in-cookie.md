@@ -1,5 +1,6 @@
 ---
 tags: ["cookie", "stay logged in"]
+image: "img/Portswigger/authentication.png"
 ---
 
 ## Keeping users logged in

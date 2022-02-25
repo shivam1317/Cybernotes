@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/SSRF.png"
+---
+
 ### SSRF attacks against other back-end systems
 
 Another type of trust relationship that often arises with server-side request forgery is where the application server is able to interact with other back-end systems that are not directly reachable by users. These systems often have non-routable private IP addresses. Since the back-end systems are normally protected by the network topology, they often have a weaker security posture. In many cases, internal back-end systems contain sensitive functionality that can be accessed without authentication by anyone who is able to interact with the systems.

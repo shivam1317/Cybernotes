@@ -1,5 +1,6 @@
 ---
 tags: ["filter bypass", "webshell"]
+image: "img/Portswigger/file-upload.jpg"
 ---
 
 ## Preventing file execution in user-accessible directories

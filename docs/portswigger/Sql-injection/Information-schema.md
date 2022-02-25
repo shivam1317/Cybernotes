@@ -1,5 +1,6 @@
 ---
 tags: ["information gathering", "sqli"]
+image: "img/Portswigger/sql-injection.png"
 ---
 
 ==> Most database types (with the notable exception of Oracle) have a set of views called the information schema which provide information about the database.

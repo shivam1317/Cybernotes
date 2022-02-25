@@ -1,5 +1,6 @@
 ---
 tags: ["rate limiting"]
+image: "img/Portswigger/authentication.png"
 ---
 
 # User rate limiting

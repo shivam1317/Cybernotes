@@ -1,5 +1,6 @@
 ---
 tags: ["debugging"]
+image: "img/Portswigger/information-disclosure.png"
 ---
 
 ## Debugging data

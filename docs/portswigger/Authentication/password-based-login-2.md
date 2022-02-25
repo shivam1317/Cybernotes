@@ -1,5 +1,7 @@
 ---
 tags: ["brute force", "account locking"]
+title: password based login part-2
+image: "img/Portswigger/authentication.png"
 ---
 
 ## Flawed brute-force protection

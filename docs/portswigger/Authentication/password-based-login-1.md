@@ -1,5 +1,7 @@
 ---
 tags: ["authentication"]
+title: Password based login part-1
+image: "img/Portswigger/authentication.png"
 ---
 
 # Password-based-login-1

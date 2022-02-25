@@ -1,3 +1,7 @@
+---
+image: "img/Portswigger/directory-traversal.png"
+---
+
 ## Common obstacles to exploiting file path traversal vulnerabilities
 
 Many applications that place user input into file paths implement some kind of defense against path traversal attacks, and these can often be circumvented.

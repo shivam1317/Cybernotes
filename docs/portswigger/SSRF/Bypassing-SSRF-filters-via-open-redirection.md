@@ -1,5 +1,6 @@
 ---
 tags: ["open redirect"]
+image: "img/Portswigger/SSRF.png"
 ---
 
 ## Bypassing SSRF filters via open redirection
