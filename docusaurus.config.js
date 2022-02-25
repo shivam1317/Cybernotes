@@ -49,7 +49,7 @@ const config = {
         indexName: "cybernotes",
         contextualSearch: true,
       },
-      og:image: "img/book.png",
+      image: "img/book.png",
       metadata: [
         {
           name: "cybernotes",
