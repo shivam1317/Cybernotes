@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"welcome","permalink":"/Cybernotes/blog/welcome"},{"title":"Tryhackme Blue Writeup","permalink":"/Cybernotes/blog/2022/02/23/Blue"}]}')}}]);

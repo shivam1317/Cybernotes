@@ -21,7 +21,7 @@
         <category label="welcome" term="welcome"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THM Blue writeup]]></title>
+        <title type="html"><![CDATA[Tryhackme Blue Writeup]]></title>
         <id>/2022/02/23/Blue</id>
         <link href="https://shivam1317.github.io/Cybernotes/blog/2022/02/23/Blue"/>
         <updated>2022-02-23T00:00:00.000Z</updated>
