@@ -39,11 +39,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: process.env.API_KEY,
+        apiKey: "7bcdfd213bdb051b9614ce1083b698f2",
         indexName: "cybernotes",
-        contextualSearch: true,
+        appId: "ABHJYS7Q6I",
+        // contextualSearch: true,
         placeholder: "search",
-        appId: process.env.APPLICATION_ID,
       },
       navbar: {
         title: "Cybernotes",
