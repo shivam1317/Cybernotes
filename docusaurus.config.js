@@ -44,7 +44,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       algolia: {
-        appId: "ABHJYS7Q6I",
+        appId: process.env.APPLICATION_ID,
         apiKey: "7bcdfd213bdb051b9614ce1083b698f2",
         indexName: "cybernotes",
         contextualSearch: true,
