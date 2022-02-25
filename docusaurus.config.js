@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
+require("dotenv").config();
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/nightOwl");
 
@@ -38,6 +38,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: process.env.API_KEY,
+        indexName: "cybernotes",
+        contextualSearch: true,
+        placeholder: "search",
+        appId: process.env.APPLICATION_ID,
+      },
       navbar: {
         title: "Cybernotes",
         logo: {
