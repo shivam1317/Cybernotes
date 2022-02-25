@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
 tags: ["welcome", "intro"]
-title: Welcome to cybernotes!
-description: cybernotes is a collection of cybersecurity notes and CTF writeups
+title: Welcome to cybernotes
+description: Cybernotes is a collection of cybersecurity notes and CTF writeups
 image: /img/book.png
 ---
 
