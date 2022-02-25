@@ -38,12 +38,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       algolia: {
         apiKey: "7bcdfd213bdb051b9614ce1083b698f2",
         indexName: "cybernotes",
         appId: "ABHJYS7Q6I",
-        // contextualSearch: true,
-        placeholder: "search",
+        contextualSearch: true,
       },
       navbar: {
         title: "Cybernotes",
