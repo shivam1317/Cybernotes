@@ -1,3 +1,7 @@
+---
+tags: ["blind sqli", "sqli"]
+---
+
 # Blind SQL injection
 
 In this section, we'll describe what blind SQL injection is, explain various techniques for finding and exploiting blind SQL injection vulnerabilities.

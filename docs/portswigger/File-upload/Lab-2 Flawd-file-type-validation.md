@@ -1,3 +1,7 @@
+---
+tags: ["webshell", "MIME"]
+---
+
 ## Flawed file type validation
 
 When submitting HTML forms, your browser typically sends the provided data in a `POST` request with the content type `application/x-www-form-url-encoded`. This is fine for sending simple text like your name, address, and so on, but is not suitable for sending large amounts of binary data, such as an entire image file or a PDF document. In this case, the content type `multipart/form-data` is the preferred approach.

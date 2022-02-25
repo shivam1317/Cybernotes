@@ -1,3 +1,7 @@
+---
+tags: ["authentication"]
+---
+
 # Password-based-login-1
 
 ## Username enumeration

@@ -1,3 +1,7 @@
+---
+tags: ["null byte"]
+---
+
 If an application requires that the user-supplied filename must end with an expected file extension, such as `.png`, then it might be possible to use a null byte to effectively terminate the file path before the required extension. For example:
 
 `filename=../../../etc/passwd%00.png`

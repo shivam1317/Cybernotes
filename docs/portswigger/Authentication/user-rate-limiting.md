@@ -1,3 +1,7 @@
+---
+tags: ["rate limiting"]
+---
+
 # User rate limiting
 
 Another way websites try to prevent brute-force attacks is through user rate limiting. In this case, making too many login requests within a short period of time causes your IP address to be blocked. Typically, the IP can only be unblocked in one of the following ways:

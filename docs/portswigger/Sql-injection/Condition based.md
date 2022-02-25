@@ -1,3 +1,7 @@
+---
+tags: ["sqli"]
+---
+
 ## Condition based Sql injection
 
 In the preceding example, suppose instead that the application carries out the same SQL query, but does not behave any differently depending on whether the query returns any data. The preceding technique will not work, because injecting different Boolean conditions makes no difference to the application's responses.

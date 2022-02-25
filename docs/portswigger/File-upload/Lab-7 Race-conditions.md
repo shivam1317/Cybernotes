@@ -1,3 +1,7 @@
+---
+tags: ["race condition"]
+---
+
 ## Exploiting file upload race conditions
 
 Modern frameworks are more battle-hardened against these kinds of attacks. They generally don't upload files directly to their intended destination on the filesystem. Instead, they take precautions like uploading to a temporary, sandboxed directory first and randomizing the name to avoid overwriting existing files. They then perform validation on this temporary file and only transfer it to its destination once it is deemed safe to do so.

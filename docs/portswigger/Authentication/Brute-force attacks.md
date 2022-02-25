@@ -1,3 +1,7 @@
+---
+tags: ["brute force", "intro"]
+---
+
 # Brute-force attacks
 
 A brute-force attack is when an attacker uses a system of trial and error in an attempt to guess valid user credentials. These attacks are typically automated using wordlists of usernames and passwords. Automating this process, especially using dedicated tools, potentially enables an attacker to make vast numbers of login attempts at high speed.

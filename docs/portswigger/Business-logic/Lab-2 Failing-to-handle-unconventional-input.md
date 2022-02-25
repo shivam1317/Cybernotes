@@ -1,3 +1,7 @@
+---
+tags: ["business logic", "negative value"]
+---
+
 ## Failing to handle unconventional input
 
 One aim of the application logic is to restrict user input to values that adhere to the business rules. For example, the application may be designed to accept arbitrary values of a certain data type, but the logic determines whether or not this value is acceptable from the perspective of the business. Many applications incorporate numeric limits into their logic. This might include limits designed to manage inventory, apply budgetary restrictions, trigger phases of the supply chain, and so on.

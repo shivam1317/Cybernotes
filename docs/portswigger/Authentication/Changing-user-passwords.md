@@ -1,3 +1,7 @@
+---
+tags: ["password reset"]
+---
+
 ## Changing user passwords
 
 Typically, changing your password involves entering your current password and then the new password twice. These pages fundamentally rely on the same process for checking that usernames and current passwords match as a normal login page does. Therefore, these pages can be vulnerable to the same techniques.

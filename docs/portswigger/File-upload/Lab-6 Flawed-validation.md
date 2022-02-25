@@ -1,3 +1,7 @@
+---
+tags: ["exiftool", "webshell"]
+---
+
 ## Flawed validation of the file's contents
 
 Instead of implicitly trusting the `Content-Type` specified in a request, more secure servers try to verify that the contents of the file actually match what is expected.

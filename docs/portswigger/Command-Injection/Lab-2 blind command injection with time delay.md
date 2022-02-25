@@ -1,3 +1,7 @@
+---
+tags: ["blind", "command injection", "time delay"]
+---
+
 --> In this lab we have the blind command injection vuln. in feedback form so we have to make the website sleep for 10 seconds
 
 we can make website sleep with `ping` command like this :

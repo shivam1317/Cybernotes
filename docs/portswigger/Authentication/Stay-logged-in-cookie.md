@@ -1,3 +1,7 @@
+---
+tags: ["cookie", "stay logged in"]
+---
+
 ## Keeping users logged in
 
 A common feature is the option to stay logged in even after closing a browser session. This is usually a simple checkbox labeled something like "Remember me" or "Keep me logged in".

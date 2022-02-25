@@ -1,3 +1,7 @@
+---
+tags: ["password reset"]
+---
+
 # Password reset logic
 
 A more robust method of resetting passwords is to send a unique URL to users that takes them to a password reset page. Less secure implementations of this method use a URL with an easily guessable parameter to identify which account is being reset, for example:

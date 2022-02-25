@@ -1,3 +1,7 @@
+---
+tags: ["sqli"]
+---
+
 ## description
 
 In the preceding example, suppose instead that the query only returns a single column.

@@ -1,3 +1,7 @@
+---
+tags: ["2FA"]
+---
+
 ## Bypassing two-factor authentication
 
 At times, the implementation of two-factor authentication is flawed to the point where it can be bypassed entirely.

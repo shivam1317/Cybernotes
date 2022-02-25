@@ -1,3 +1,7 @@
+---
+tags: ["filter bypass"]
+---
+
 You might be able to use nested traversal sequences, such as `....//` or `....\/`, which will revert to simple traversal sequences when the inner sequence is stripped.
 
 ## Challenge

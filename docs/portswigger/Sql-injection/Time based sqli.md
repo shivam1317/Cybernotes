@@ -1,3 +1,7 @@
+---
+tags: ["time based sqli", "sqli", "postgresql"]
+---
+
 # Time based SQLi
 
 In the preceding example, suppose that the application now catches database errors and handles them gracefully. Triggering a database error when the injected SQL query is executed no longer causes any difference in the application's response, so the preceding technique of inducing conditional errors will not work.

@@ -1,3 +1,7 @@
+---
+tags: ["open redirect"]
+---
+
 ## Bypassing SSRF filters via open redirection
 
 It is sometimes possible to circumvent any kind of filter-based defenses by exploiting an open redirection vulnerability.

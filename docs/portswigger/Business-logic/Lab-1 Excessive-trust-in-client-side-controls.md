@@ -1,3 +1,7 @@
+---
+tags: ["business-logic", "2FA"]
+---
+
 ## Excessive trust in client-side controls\*\*
 
 A fundamentally flawed assumption is that users will only interact with the application via the provided web interface. This is especially dangerous because it leads to the further assumption that client-side validation will prevent users from supplying malicious input. However, an attacker can simply use tools such as Burp Proxy to tamper with the data after it has been sent by the browser but before it is passed into the server-side logic. This effectively renders the client-side controls useless.

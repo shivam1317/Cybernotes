@@ -1,3 +1,7 @@
+---
+tags: ["password reset"]
+---
+
 Password reset poisoning is a technique whereby an attacker manipulates a vulnerable website into generating a password reset link pointing to a domain under their control. This behavior can be leveraged to steal the secret tokens required to reset arbitrary users' passwords and, ultimately, compromise their accounts.
 
 ![](Attachments/Pastedimage20220208121738.png)

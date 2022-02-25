@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-tags: ["welcome"]
+tags: ["welcome", "intro"]
 ---
 
 # Welcome to Cybernotes

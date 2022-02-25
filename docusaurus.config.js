@@ -37,16 +37,16 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       colorMode: {
         defaultMode: "dark",
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
       algolia: {
+        appId: "ABHJYS7Q6I",
         apiKey: "7bcdfd213bdb051b9614ce1083b698f2",
         indexName: "cybernotes",
-        appId: "ABHJYS7Q6I",
         contextualSearch: true,
       },
       navbar: {
@@ -120,7 +120,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    },
 };
 
 module.exports = config;

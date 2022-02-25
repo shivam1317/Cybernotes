@@ -1,3 +1,7 @@
+---
+tags: ["command injection"]
+---
+
 --> In this lab the vulnerability is in check stock button which will check the stock in perticular place.
 
 --> Main page looks like this :

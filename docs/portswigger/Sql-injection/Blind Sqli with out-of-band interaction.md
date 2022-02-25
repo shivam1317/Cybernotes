@@ -1,3 +1,7 @@
+---
+tags: ["sqli", "blind sqli"]
+---
+
 ## Blind sqli with out-of-band interaction (OAST)
 
 Now, suppose that the application carries out the same SQL query, but does it asynchronously. The application continues processing the user's request in the original thread, and uses another thread to execute an SQL query using the tracking cookie. The query is still vulnerable to SQL injection, however none of the techniques described so far will work: the application's response doesn't depend on whether the query returns any data, or on whether a database error occurs, or on the time taken to execute the query.

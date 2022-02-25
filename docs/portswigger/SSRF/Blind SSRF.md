@@ -1,3 +1,7 @@
+---
+tags: ["ssrf"]
+---
+
 ## What is blind SSRF?
 
 Blind SSRF vulnerabilities arise when an application can be induced to issue a back-end HTTP request to a supplied URL, but the response from the back-end request is not returned in the application's front-end response.

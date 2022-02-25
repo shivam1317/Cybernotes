@@ -1,3 +1,7 @@
+---
+tags: ["backup"]
+---
+
 ### Source code disclosure via backup files
 
 Obtaining source code access makes it much easier for an attacker to understand the application's behavior and construct high-severity attacks. Sensitive data is sometimes even hard-coded within the source code. Typical examples of this include API keys and credentials for accessing back-end components.

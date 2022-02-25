@@ -1,3 +1,7 @@
+---
+tags: ["nslookup", "commmand injection"]
+---
+
 --> This lab is same as Lab-4 but here we have to execute the os command in the DNS lookup which we can do with the backtick so i set up my burp collaborator server and used this payload in every field :
 
 ```bash

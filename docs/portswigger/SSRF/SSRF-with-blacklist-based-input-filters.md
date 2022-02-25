@@ -1,3 +1,7 @@
+---
+tags: ["blacklist", "bypass"]
+---
+
 ## SSRF with blacklist-based input filters
 
 Some applications block input containing hostnames like `127.0.0.1` and `localhost`, or sensitive URLs like `/admin`. In this situation, you can often circumvent the filter using various techniques:

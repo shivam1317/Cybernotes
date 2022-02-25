@@ -1,3 +1,7 @@
+---
+tags: ["directory traversal"]
+---
+
 ## Reading arbitrary files via directory traversal
 
 Consider a shopping application that displays images of items for sale. Images are loaded via some HTML like the following:

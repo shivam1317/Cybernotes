@@ -1,3 +1,7 @@
+---
+tags: ["debugging"]
+---
+
 ## Debugging data
 
 For debugging purposes, many websites generate custom error messages and logs that contain large amounts of information about the application's behavior. While this information is useful during development, it is also extremely useful to an attacker if it is leaked in the production environment.

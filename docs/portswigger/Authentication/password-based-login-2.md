@@ -1,3 +1,7 @@
+---
+tags: ["brute force", "account locking"]
+---
+
 ## Flawed brute-force protection
 
 It is highly likely that a brute-force attack will involve many failed guesses before the attacker successfully compromises an account. Logically, brute-force protection revolves around trying to make it as tricky as possible to automate the process and slow down the rate at which an attacker can attempt logins. The two most common ways of preventing brute-force attacks are:

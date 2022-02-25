@@ -1,3 +1,7 @@
+---
+tags: ["github", "git", "gitTools"]
+---
+
 ### Version control history
 
 Virtually all websites are developed using some form of version control system, such as Git. By default, a Git project stores all of its version control data in a folder called `.git`. Occasionally, websites expose this directory in the production environment. In this case, you might be able to access it by simply browsing to `/.git`.
