@@ -1,7 +1,7 @@
 # Cybernotes
 
 <p align="center">
-  <a href="https://shivam1317.github.io/Cybernotes/" target="blank"><img src="/img/cybernotes.png" width="320" alt="cybernotes" /></a>
+  <a href="https://shivam1317.github.io/Cybernotes/" target="blank"><img src="static/img/cybernotes.png" width="320" alt="cybernotes" /></a>
 </p>
 
 Cybernotes is a website where i share all my cybersecurity notes and CTF writeups.
