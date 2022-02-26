@@ -91,9 +91,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ![](Attachment/Pastedimage20220101123218.png)
 
-# PrivEsc
-
----
+## PrivEsc
 
 -> Treid `sudo -l` but as we have not password of john so it wont worked
 -> Then we've the find command from which we can find the suid files but there also didnt got anything special and last one is cronjobs `cat /etc/crontab` which will give if any cronjob is not there which is executing a file with root perm repeatedly with a time period of sleep but there also we got nothing
@@ -135,6 +133,8 @@ step:
 ![](Attachment/Pastedimage20220101132508.png)
 
 ---
+
+## Outro
 
 It was a great machine. The User shell was bit easy one but in privesc part learned a new thing about how we can get root if we are in the **lxd** group
 
