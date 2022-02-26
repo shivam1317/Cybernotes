@@ -26,6 +26,11 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarCount: 10,
+          blogTitle: "Cybernote Blogs",
+          blogDescription:
+            "This blog contains the writeups of CTF challenges from different platforms.",
+          postsPerPage: 10,
           // Please change this to your repo.
         },
         theme: {
@@ -86,7 +91,7 @@ const config = {
             items: [
               {
                 label: "How to contribute",
-                to: "/docs/intro",
+                to: "/docs/contributing",
               },
             ],
           },

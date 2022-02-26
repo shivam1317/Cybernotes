@@ -1,41 +1,22 @@
-# Website
+# Cybernotes
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+<p align="center">
+  <a href="https://shivam1317.github.io/Cybernotes/" target="blank"><img src="/img/cybernotes.png" width="320" alt="cybernotes" /></a>
+</p>
 
-### Installation
+Cybernotes is a website where i share all my cybersecurity notes and CTF writeups.
 
-```
-$ yarn
-```
+If you are interested in cybersec and also a CTF player then you should checkout it.
 
-### Local Development
+## Contributing
 
-```
-$ yarn start
-```
+Hello there 👋,
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+If you want to contribute in the project then feel free to make a PR :)
 
-### Build
+Just keep these things in mind while contributing:
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+1. The writeup or note must be written by yourself.
+2. It must be easily understandable and in detail.
+3. Add tags if you want.
+4. For more help join my <a href="https://discord.gg/wXQAxT8X9d">discord server</a>

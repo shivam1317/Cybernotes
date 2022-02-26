@@ -10,6 +10,10 @@ image: /img/book.png
 
 Hey there 👋
 
-Welcome to cybernotes where i share all the ctf writeups and notes which i have.
+Welcome to cybernotes where i share all the ctf writeups and notes.
 
-If you are interested in Tryhackme and Hackthebox writeups then goto <a href="/blog/welcome">blogs</a>
+I have made this website to share my writeups and notes which i make during any ctf challenge or study. Also these writeups are written in simple language so that everyone can understand. i hope you will like it :)
+
+If you want to contribute then please check <a href="/docs/contributing">contributing</a>
+
+If you are interested in CTF writeups then goto <a href="/blog/welcome">blogs</a>
