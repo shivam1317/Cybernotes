@@ -57,8 +57,12 @@ const config = {
       image: "img/book.png",
       metadata: [
         {
-          name: "cybernotes",
+          name: "description",
           content: "Collection of cybersecurity notes and CTF writeups",
+        },
+        {
+          name: "google-site-verification",
+          content: "QR87sedAl37ED2yeGmgSmXKX6r3GfBffBjunkUFl0rI",
         },
       ],
       navbar: {
