@@ -1,15 +1,26 @@
 ---
+slug: "blue"
 authors: ["shivam"]
-tags: ["windows", "blue"]
+tags: ["windows", "blue", "john", "msfconsole"]
 title: Tryhackme Blue Writeup
-image: "img/THM/blue.png"
+image: "/img/THM/blue.png"
 ---
 
 # THM Blue writeup
 
-## nmap results
+Hello everyone,
 
-```
+Today we are going to solve blue machine from Tryhackme. we will see how to enumrate windows machine,how to crack hashes and how to use msfconsole in this room.
+
+![](/img/THM/blue.png)
+
+<!--truncate-->
+
+So let's start...
+
+## Nmap results
+
+```bash
 PORT      STATE SERVICE            VERSION
 135/tcp   open  msrpc              Microsoft Windows RPC
 139/tcp   open  netbios-ssn        Microsoft Windows netbios-ssn
