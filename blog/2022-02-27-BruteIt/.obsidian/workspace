@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ce032a22dc797cde",
+    "type": "split",
+    "children": [
+      {
+        "id": "4baf30b93b41ad04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brute it.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5222f324c16340ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e369a1e72e06ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e3ce3ff42aaa65e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4f3b65f545228d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7af5a415fbad84fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33cc86316606347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8ea71fd09ae16d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brute it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4baf30b93b41ad04",
+  "lastOpenFiles": [
+    "Brute it.md",
+    "Untitled.md"
+  ]
+}

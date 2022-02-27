@@ -1,6 +1,7 @@
 ---
 slug: openadmin
 title: HTB OpenAdmin writeup
+description: writeup of openadmin box from Hackthebox
 image: /img/HTB/openadmin.png
 authors: ["shivam"]
 tags: ["openadmin", "rce", "ssh2john", "nano"]
