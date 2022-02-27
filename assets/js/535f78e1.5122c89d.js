@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[5946],{34157:function(s){s.exports=JSON.parse('{"allTagsPath":"/Cybernotes/blog/tags","slug":"/Cybernotes/blog/tags/mysql","name":"mysql","count":1,"permalink":"/Cybernotes/blog/tags/mysql"}')}}]);
