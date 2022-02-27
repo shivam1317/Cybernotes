@@ -26,7 +26,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          blogSidebarCount: 10,
+          blogSidebarTitle: "All posts",
+          blogSidebarCount: "ALL",
           blogTitle: "Cybernote Blogs",
           blogDescription:
             "This blog contains the writeups of CTF challenges from different platforms.",

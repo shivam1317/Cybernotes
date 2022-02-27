@@ -1,4 +1,5 @@
 ---
+slug: openadmin
 title: HTB OpenAdmin writeup
 image: /img/HTB/openadmin.png
 authors: ["shivam"]

@@ -3,6 +3,7 @@ slug: chocolateFactory
 tags: ["FTP", "vi", "id_rsa"]
 authors: ["shivam"]
 title: THM ChocolateFactory
+description: Tryhackme chocolate factory room writeup
 image: https://tryhackme-images.s3.amazonaws.com/room-icons/e2eed78e92b4890174e0a2510b6e7a7c.jpeg
 ---
 

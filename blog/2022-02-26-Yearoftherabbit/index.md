@@ -1,4 +1,5 @@
 ---
+slug: year-of-the-rabbit
 title: THM Year-of-the-rabbit writeup
 description: Tryhackme Year-of-the-rabbit writeup
 image: https://tryhackme-images.s3.amazonaws.com/room-icons/c062ef0e0b4f70e51a2dafc5fc2bca0e.jpeg

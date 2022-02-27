@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "87ad4b1a44dc64c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "639faaefae46a9fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Troll1 Notes.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "709fffc211f51151",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf78b07e857b3f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e00c1061cf968f1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b4b559e8072cef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cdc70345fdf8b3a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "79958dc94cc29664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e9ef13b3bb87acf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Troll1 Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "639faaefae46a9fd",
+  "lastOpenFiles": [
+    "Troll1 Notes.md",
+    "Untitled.md"
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-slug: "blue"
+slug: blue
 authors: ["shivam"]
 tags: ["windows", "blue", "john", "msfconsole"]
 title: Tryhackme Blue Writeup

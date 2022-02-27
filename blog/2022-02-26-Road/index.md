@@ -1,4 +1,5 @@
 ---
+slug: road
 title: THM Road writeup
 description: Writeup of Road machine from Tryhackme
 image: https://tryhackme-images.s3.amazonaws.com/room-icons/86d73ce54a3f392bd56336da012a8270.png

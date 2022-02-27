@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "3c89973ed9d5d44e",
+    "type": "split",
+    "children": [
+      {
+        "id": "022f2eddf3e2c32b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bounty Hacker.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c3fd1539dad28a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c2be32b0f8971b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e042970a7e3e5c19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d451d8cb16698f34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabd33ba6ec9b52f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b35542ae09a7e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8a51275646d6918",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bounty Hacker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "022f2eddf3e2c32b",
+  "lastOpenFiles": [
+    "Bounty Hacker.md",
+    "Untitled.md"
+  ]
+}
