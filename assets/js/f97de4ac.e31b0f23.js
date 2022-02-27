@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[5892],{2304:function(e){e.exports=JSON.parse('{"allTagsPath":"/Cybernotes/blog/tags","slug":"/Cybernotes/blog/tags/welcome","name":"welcome","count":1,"permalink":"/Cybernotes/blog/tags/welcome"}')}}]);
