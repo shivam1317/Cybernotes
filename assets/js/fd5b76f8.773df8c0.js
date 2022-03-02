@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[8714],{6703:function(e){e.exports=JSON.parse('{"allTagsPath":"/Cybernotes/blog/tags","slug":"/Cybernotes/blog/tags/docker","name":"docker","count":2,"permalink":"/Cybernotes/blog/tags/docker"}')}}]);

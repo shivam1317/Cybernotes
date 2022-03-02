@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcybersec_notes=self.webpackChunkcybersec_notes||[]).push([[3306],{76176:function(e){e.exports=JSON.parse('{"allTagsPath":"/Cybernotes/blog/tags","slug":"/Cybernotes/blog/tags/codiac","name":"codiac","count":1,"permalink":"/Cybernotes/blog/tags/codiac"}')}}]);
