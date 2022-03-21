@@ -11,6 +11,8 @@ tags: ["web", "OSINT", "forensics", "crypto"]
 
 VishwaCTF 2022 was Fun CTF challenge. me and my team participated in it as `W3 4R3 N00BS` team and we got top 100 in this CTF. ofcourse it's not a good rank because we don't have any forensics,crypto and reversing players and also their OSINT and stegno challenges were only related to guesswork. that's why we were able to do only 1 OSINT challenge. If you are interested in joining our team then contact us through our [discord server](https://discord.gg/2KJJMQ8DRP)
 
+<!--truncate-->
+
 This is the scoreboard for our team.
 
 ![](https://cdn.discordapp.com/attachments/833787171130834951/955090566348152902/unknown.png)
